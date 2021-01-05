@@ -1,0 +1,14 @@
+{
+   "name": "savage-eberron-artwork",
+   "title": "Artwork: Savage Eberron",
+   "description": "Artwork for Bestiary, both Tokens and Portraits",
+   "author": "Freewolf2000",
+   "version": "0.1.0",
+   "minimumCoreVersion": "0.7.5",
+   "compatibleCoreVersion":"0.7.9",
+   "systems": ["swade"],
+   "url": "https://github.com/Freewolf2000/savage-eberron-artwork",
+   "manifest": "https://raw.githubusercontent.com/Freewolf2000/savage-eberron-artwork/main/savage-eberron-artwork/module.json",
+   "download": "https://github.com/Freewolf2000/savage-eberron-artwork/raw/main/savage-eberron-artwork.zip",
+   "packs": []
+}
