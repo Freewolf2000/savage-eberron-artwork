@@ -3,7 +3,7 @@
    "title": "Artwork: Savage Eberron",
    "description": "Artwork for Bestiary, both Tokens and Portraits",
    "author": "Freewolf2000",
-   "version": "0.3.0",
+   "version": "0.3.1",
    "minimumCoreVersion": "0.7.5",
    "compatibleCoreVersion":"0.7.9",
    "systems": ["swade"],
